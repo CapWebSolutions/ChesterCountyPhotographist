@@ -1,0 +1,31 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "version": "v1713815900",
+    "name": "meta-box/advertisement",
+    "title": "Advertisement",
+    "description": "Photographer Advertisement Block",
+    "category": "common",
+    "icon": "megaphone",
+    "keywords": [],
+    "supports": {
+        "html": false,
+        "anchor": false,
+        "align": true
+    },
+    "attributes": {
+        "heading": {
+            "type": "string"
+        },
+        "content": {
+            "type": "string"
+        },
+        "endpart": {
+            "type": "string"
+        }
+    },
+    "style": [
+        "file:./advertisement.css"
+    ],
+    "render": "file:./advertisement.php"
+}

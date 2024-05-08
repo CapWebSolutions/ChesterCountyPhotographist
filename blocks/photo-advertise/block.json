@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "version": "v1713825831",
+    "name": "meta-box/photo-advertise",
+    "title": "Photo Advertise",
+    "description": "",
+    "category": "common",
+    "icon": "camera-alt",
+    "keywords": [],
+    "supports": {
+        "html": false,
+        "anchor": false,
+        "align": true
+    },
+    "attributes": {
+        "heading": {
+            "type": "string"
+        },
+        "ad_copy": {
+            "type": "string"
+        },
+        "reference": {
+            "type": "string"
+        }
+    }
+}

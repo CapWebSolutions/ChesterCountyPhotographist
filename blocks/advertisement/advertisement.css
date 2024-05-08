@@ -1,0 +1,31 @@
+#mb-block-advertisement{
+	display: flex;
+    flex-wrap: nowrap;
+}
+.advertisement_heading{
+	background: #2c8791;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+}
+.advertisement_author::after,
+.advertisement_author::before{
+    content:" ~ ";
+}
+.advertisement__image {
+	height: 100%!important;
+}
+.advertisement_author{
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0 20px;
+}
+.advertisement_content{
+    padding: 30px;
+    font-style: italic;
+    font-size: 20px;
+}
+.advertisement_endpart{
+	padding: 0 30px;
+    color: cyan;
+}
