@@ -5,6 +5,29 @@ Description: Theme for Chester County Photogriphist
 Author:      Matt Ryan | Cap Web Solutions
 Author URL:  http://capwebsolutions.com
 Template:    kadence
-Version: 1.1.0
+Version: 1.1.1
 GitHub Plugin URI: https: //github.com/CapWebSolutions/penncat-core-functionality
 */
+/*  
+Advertisement block styling to achieve inline look. */
+aside.advertisement {
+    width: 100vh;
+    border-color: var(--global-palette8);
+    border-radius: 5px 5px 5px 50px !important;
+    float: right;
+    padding: 20px;
+    margin-left: 20px;
+    background-image: url("/wp-content/uploads/2024/05/advertisement-background.jpg");
+}
+
+aside.advertisement.img {
+    opacity: .5;
+}
+
+/*  
+Bibliography styles */
+
+p.biblio {
+    margin-left: .5in;
+    text-indent: -.5in;
+}
