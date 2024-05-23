@@ -15,10 +15,11 @@ Add Biography title & Save draft.
 Select taxonomies on the right side
 (Municipalities, Working Decades, Processes).
 Set biography details in the Biography Details meta box below. 
-Scroll to next comment, select all, 
-and begin entering your biography content.
+USe the Block insert below to begin entering your biography content.
 The first paragraph of your biography 
-should be the post excerpt. 
+is the post excerpt. 
+The actual content of the biography will begin with 
+the 2nd paragraph of the biography content. 
 Remove this comment before publication.
 <!-- /wp:paragraph -->
 <!-- wp:block {"ref":1837} /-->

@@ -1,0 +1,27 @@
+<?php
+/**
+ * Title: CDV Front & Back
+ * Slug: chestercountyphotographist/cdv-front-back
+ * Categories: chestercountyphotographist/custom
+ */
+?>
+
+<!-- wp:kadence/rowlayout {"uniqueID":"1276_9ff134-2e","columns":3,"tabletLayout":"first-row","columnGutter":"skinny","customGutter":[16,"",""],"colLayout":"left-half","minHeight":572,"maxWidth":1475,"bgColor":"palette9","align":"wide","firstColumnWidth":30,"secondColumnWidth":35,"columnsInnerHeight":true,"inheritMaxWidth":true,"bgColorClass":"theme-palette9","padding":["xl","","xl",""],"kbVersion":2,"metadata":{"name":"CDV-front-rear"}} -->
+<!-- wp:kadence/column {"background":"palette8","borderWidth":["","","",""],"borderRadius":[24,24,24,24],"uniqueID":"1276_d710c5-b1","textAlign":["center","",""],"direction":["vertical","",""],"verticalAlignment":"middle","padding":["lg","xl","lg","xl"],"mobilePadding":["sm","sm","sm","sm"],"mobileMargin":["","",25,""],"kbVersion":2} -->
+<div class="wp-block-kadence-column kadence-column1276_d710c5-b1 kb-section-dir-vertical"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"uniqueID":"1276_835f6f-5f","align":"left","color":"palette3","margin":["0","","0",""],"markBorder":"","markBorderStyles":[{"top":[null,"",1],"right":[null,"",1],"bottom":[null,"",1],"left":[null,"",1],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",1],"right":[null,"",1],"bottom":[null,"",1],"left":[null,"",1],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",1],"right":[null,"",1],"bottom":[null,"",1],"left":[null,"",1],"unit":"px"}],"colorClass":"theme-palette3","htmlTag":"p","link":"","background":"","backgroundColorClass":"","linkStyle":"none","linkColor":"palette2","fontSize":[17,"xl","lg"],"fontHeight":[1.2,1.3,1.3]} -->
+<p class="kt-adv-heading1276_835f6f-5f wp-block-kadence-advancedheading has-theme-palette-3-color has-text-color hls-none" data-kb-block="kb-adv-heading1276_835f6f-5f">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+<!-- /wp:kadence/advancedheading --></div></div>
+<!-- /wp:kadence/column -->
+
+<!-- wp:kadence/column {"id":2,"borderWidth":["","","",""],"uniqueID":"1276_322fa7-f7","textAlign":[null,"center","center"],"direction":["vertical","",""],"kbVersion":2} -->
+<div class="wp-block-kadence-column kadence-column1276_322fa7-f7 kb-section-dir-vertical"><div class="kt-inside-inner-col"><!-- wp:kadence/image {"id":1392,"imgMaxWidth":400,"sizeSlug":"full","ratio":"port34","linkDestination":"none","uniqueID":"1276_6e26e2-b0","borderRadius":[24,24,24,24],"showCaption":false,"captionStyles":[{"size":["md","",""],"sizeType":"px","lineHeight":["","",""],"lineType":"px","letterSpacing":"","textTransform":"","family":"","google":false,"style":"","weight":"","variant":"","subset":"","loadGoogle":true,"color":"palette3","background":""}]} -->
+<figure class="wp-block-kadence-image kb-image1276_6e26e2-b0 size-full"><img src="https://chestercountyphotographist.test/wp-content/uploads/2024/04/carte-de-visite-image-template.png" alt="Carte De Visite Image Template" class="kb-img wp-image-1392"/></figure>
+<!-- /wp:kadence/image --></div></div>
+<!-- /wp:kadence/column -->
+
+<!-- wp:kadence/column {"id":3,"borderWidth":["","","",""],"uniqueID":"1276_cd1b6a-1f","textAlign":[null,"center","center"],"kbVersion":2,"className":"inner-column-3"} -->
+<div class="wp-block-kadence-column kadence-column1276_cd1b6a-1f inner-column-3"><div class="kt-inside-inner-col"><!-- wp:kadence/image {"id":1392,"imgMaxWidth":400,"sizeSlug":"full","ratio":"port34","linkDestination":"none","uniqueID":"1276_ddb40d-1b","borderRadius":[24,24,24,24],"showCaption":false,"captionStyles":[{"size":["md","",""],"sizeType":"px","lineHeight":["","",""],"lineType":"px","letterSpacing":"","textTransform":"","family":"","google":false,"style":"","weight":"","variant":"","subset":"","loadGoogle":true,"color":"palette3","background":""}]} -->
+<figure class="wp-block-kadence-image kb-image1276_ddb40d-1b size-full"><img src="https://chestercountyphotographist.test/wp-content/uploads/2024/04/carte-de-visite-image-template.png" alt="Carte De Visite Image Template" class="kb-img wp-image-1392"/></figure>
+<!-- /wp:kadence/image --></div></div>
+<!-- /wp:kadence/column -->
+<!-- /wp:kadence/rowlayout -->
